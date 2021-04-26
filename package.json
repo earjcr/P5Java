@@ -1,0 +1,24 @@
+{
+  "name": "p5java",
+  "version": "1.0.0",
+  "description": "Repository for learning how to use JavaScript plugins and Babel.\r Purely for finishing OpenClassroom Course - Web Developer Path - Project 5: Writing Java for the Web",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earjcr/P5Java.git"
+  },
+  "author": "E Rudy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earjcr/P5Java/issues"
+  },
+  "homepage": "https://github.com/earjcr/P5Java#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2"
+  }
+}
